@@ -1,7 +1,5 @@
 # Responsive-headphones-website
 <br>
-Responsive Headphones Website Design Using HTML CSS &amp; JavaScript
-<br>
 <h4>Responsive Headphones Website<h4>
 Responsive Headphones Website Design Using HTML CSS & JavaScript
 <br>
